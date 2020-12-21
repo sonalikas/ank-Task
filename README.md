@@ -2,5 +2,5 @@
 register page
 
 
-##Instruction
+Instruction
 clone and and open it in your local browser.
